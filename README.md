@@ -1,1 +1,1 @@
-# design-patterns-adapter
+# design-pattern-adapter
